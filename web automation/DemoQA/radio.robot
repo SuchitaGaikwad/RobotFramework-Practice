@@ -1,4 +1,4 @@
-*** settings ***
+*** Settings ***
 Library			SeleniumLibrary
 Test Setup      Open Browser And Maximize
 Test Teardown   Close Browser Window
